@@ -22,6 +22,10 @@
 ![](./imagenes-presentacion/nube6.jpg)
 ![](./imagenes-presentacion/nube7.jpg)
 ![](./imagenes-presentacion/nube8.jpg)
+![](./imagenes-presentacion/nube10.png)
+![](./imagenes-presentacion/nube11.png)
+![](./imagenes-presentacion/nube12.png)
+![](./imagenes-presentacion/nube13.png)
 
 
 ---
